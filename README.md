@@ -5,7 +5,7 @@ This application generates video output from udp port and displays it with Qt me
 
 Main feature of this application is, the class also directly connects to QML, making developers easier to quickly add and develop without losing speed.
 
-[I have explained most of the code on my personal blog.](https://anilsayar.com/2024/03/07/how-to-get-camera-feed-from-mavlink/)
+[I have explained most of the code on my personal blog.](https://anilsayar.com/2024/03/07/how-to-get-camera-feed-from-udp-using-gstreamer/)
 
 
 ## Libraries
